@@ -1,0 +1,6 @@
+framework module YzlLiteAVManager {
+  umbrella header "YzlLiteAVManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

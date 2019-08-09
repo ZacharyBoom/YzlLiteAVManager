@@ -1,0 +1,16 @@
+PODS:
+  - YzlLiteAVManager (0.1.0)
+
+DEPENDENCIES:
+  - YzlLiteAVManager (from `../`)
+
+EXTERNAL SOURCES:
+  YzlLiteAVManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YzlLiteAVManager: 8f5bc73b7273d34fca27bd90157b1d5d92416e7a
+
+PODFILE CHECKSUM: dcba353973d0c6bea8ffd09131dc881d54b8d43b
+
+COCOAPODS: 1.6.1

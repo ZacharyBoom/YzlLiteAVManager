@@ -1,0 +1,22 @@
+{
+  "name": "YzlLiteAVManager",
+  "version": "0.1.0",
+  "summary": "A short description of YzlLiteAVManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ZacharyBoom/YzlLiteAVManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZacharyBoom": "43230741+ZacharyBoom@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/ZacharyBoom/YzlLiteAVManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YzlLiteAVManager/Classes/**/*"
+}
